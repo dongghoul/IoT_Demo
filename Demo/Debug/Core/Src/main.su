@@ -1,0 +1,9 @@
+main.c:62:6:ledPA5	8	static
+main.c:65:6:ledPC9	8	static
+main.c:74:5:main	8	static
+main.c:125:6:SystemClock_Config	72	static
+main.c:163:13:MX_TIM2_Init	32	static
+main.c:208:13:MX_USART2_UART_Init	8	static
+main.c:241:13:MX_GPIO_Init	40	static
+main.c:284:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:294:6:Error_Handler	4	static,ignoring_inline_asm
